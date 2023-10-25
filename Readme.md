@@ -4,7 +4,7 @@ Hello World! 👋 My name is Vipin Bohra
 Full Stack Developer
 --------------------
 
-I am a Full Stack Developer, I have 1.5 years of progressive experience working in both front-end and backend technologies.
+**I am a Full Stack Developer, I have 1.5 years of progressive experience working in both frontend and backend technologies.**
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vipinbohra321@gmail.com](mailto:vipinbohra321@gmail.com)
