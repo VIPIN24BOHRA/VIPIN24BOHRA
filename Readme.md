@@ -13,7 +13,7 @@ _Computer Science Engineer_ <b> Full Stack (MERN) Developer</b>  🤓 | <b>Flutt
 * 🧠  I'm learning AWS, System Design.
 * 🤝  I'm open to collaborating on any Cool Project.
 * 🔭  I’m open to work as Freelancer 💻
-* ⚡  Fun fact: Caffeine helps me Code.. ☕
+* ⚡  Fun fact: I am a networker... 
 * 🎆  I'm Open to New Opportunities.
 
   
