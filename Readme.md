@@ -7,7 +7,7 @@
 _Computer Science Engineer_ <b> Full Stack (MERN) Developer</b> 🤓 | <b>Flutter Developer</b> 🧐 | <b>Pythoneer</b> 🐍 | <b>Competitive Programmer</b>🤠. 🥳 Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> in a Dynamic Environment. 🧑🏻
 
 - 🌍  I'm based in India
-- 🚩 <a href=https://vipinbohra.co.in/" target="_blank">vipinbohra.co.in/</a>
+- 🚩 <a href="https://vipinbohra.co.in/" target="_blank">vipinbohra.co.in</a>
 - 📫 You can reach at: [vipinbohra321@gmail.com](mailto:vipinbohra321@gmail.com)
 - 🧠  I'm learning AWS, System Design.
 - 🤝  I'm open to collaborating on any Cool Project.
